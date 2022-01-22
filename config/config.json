@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "hrcentral-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/hrcentral/HrcentralWebPart.js",
+          "manifest": "./src/webparts/hrcentral/HrcentralWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "HrcentralWebPartStrings": "lib/webparts/hrcentral/loc/{locale}.js"
+  }
+}
