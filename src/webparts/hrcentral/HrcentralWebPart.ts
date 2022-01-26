@@ -8,8 +8,8 @@ import {
 import { BaseClientSideWebPart } from '@microsoft/sp-webpart-base';
 
 import * as strings from 'HrcentralWebPartStrings';
-import Hrcentral from './components/Home/Hrcentral';
-import { IHrcentralProps } from './components/Home/IHrcentralProps';
+import Hrcentral from './components/Hrcentral';
+import { IHrcentralProps } from './components/IHrcentralProps';
 import { HttpClient,HttpClientResponse} from "@microsoft/sp-http"; 
 
 

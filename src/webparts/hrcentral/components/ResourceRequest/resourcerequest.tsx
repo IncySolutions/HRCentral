@@ -1,5 +1,8 @@
 import * as React from 'react';
 import styles from './resourcerequest.module.scss';
+import Button from '@material-ui/core/Button';
+
+
 
 import{IResourceRequestProps} from './IResourceRequestProps'
 
@@ -8,8 +11,10 @@ export default class ResoureRequest extends React.Component<IResourceRequestProp
     public render(): React.ReactElement<IResourceRequestProps> {
     return(
 
-    <div className={styles.color}>
-        this is an resource Request PAGE
+    <div>
+          <Button variant="contained" color="primary">
+         Hello World
+         </Button>
         </div>
     );
     
