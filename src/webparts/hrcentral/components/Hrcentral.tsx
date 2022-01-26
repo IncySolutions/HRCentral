@@ -26,7 +26,7 @@ export default class Hrcentral extends React.Component<IHrcentralProps, {}> {
 		</rect>
 	</svg>
 	<div id="Onboard">
-		<a href="#">Onboard</a>
+		<a href="#">Onboardqq</a>
 	</div>
 	<div id="Onboard_l">
 		<span>Onboard</span>
