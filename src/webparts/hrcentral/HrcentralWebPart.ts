@@ -10,6 +10,8 @@ import { BaseClientSideWebPart } from '@microsoft/sp-webpart-base';
 import * as strings from 'HrcentralWebPartStrings';
 import Hrcentral from './components/Hrcentral';
 import { IHrcentralProps } from './components/IHrcentralProps';
+import { HttpClient,HttpClientResponse} from "@microsoft/sp-http"; 
+
 
 export interface IHrcentralWebPartProps {
   description: string;
@@ -24,9 +26,27 @@ export default class HrcentralWebPart extends BaseClientSideWebPart<IHrcentralWe
         description: this.properties.description
       }
     );
-
+    this.test();
+    
     ReactDom.render(element, this.domElement);
   }
+
+  private test(){  
+    alert("Hi this is test");
+    //console.log("Hi this is test")
+    this.context.httpClient
+    .get('https://resourcerequestsoln.azurewebsites.net/api/WeatherForecast', HttpClient.configurations.v1)
+    .then((res: HttpClientResponse): Promise<any> => {
+      console.log("Hi this is testing machine test");
+      console.log(res);
+      return res.json();
+      
+    })
+    .then((response: any): void => {
+     
+      console.log(response);
+    }); 
+  }  
 
   protected onDispose(): void {
     ReactDom.unmountComponentAtNode(this.domElement);

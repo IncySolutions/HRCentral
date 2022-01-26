@@ -1,0 +1,461 @@
+.mediaViewInfo {
+  --web-view-name: Web 1366 – 1;
+  --web-view-id: Web_1366__1;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-enable-scale-up: true;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Web_1366__1;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Web_1366__1 {
+  width: 1366px;
+  height: 768px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: Web 1366 – 1;
+  --web-view-id: Web_1366__1;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-enable-scale-up: true;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_1 {
+  filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 222px;
+  height: 114px;
+  left: 1037px;
+  top: 199px;
+}
+#Rectangle_2 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_2 {
+  filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 222px;
+  height: 114px;
+  left: 1037px;
+  top: 320px;
+}
+#Rectangle_3 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_3 {
+  filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 222px;
+  height: 114px;
+  left: 1037px;
+  top: 447px;
+}
+#Rectangle_4 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_4 {
+  filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 222px;
+  height: 114px;
+  left: 1037px;
+  top: 574px;
+}
+#Onboard {
+  left: 1053px;
+  top: 229px;
+  position: absolute;
+  overflow: visible;
+  width: 117px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  color: rgba(112, 112, 112, 1);
+}
+#Onboard_l {
+  left: 1053px;
+  top: 350px;
+  position: absolute;
+  overflow: visible;
+  width: 117px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  color: rgba(112, 112, 112, 1);
+}
+
+#Onboard_m {
+  left: 1053px;
+  top: 477px;
+  position: absolute;
+  overflow: visible;
+  width: 117px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  color: rgba(112, 112, 112, 1);
+}
+#Onboard_n {
+  left: 1053px;
+  top: 604px;
+  position: absolute;
+  overflow: visible;
+  width: 117px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  color: rgba(112, 112, 112, 1);
+}
+#Image_1 {
+  mix-blend-mode: multiply;
+  position: absolute;
+  width: 53px;
+  height: 45px;
+  left: 1176px;
+  top: 225px;
+  overflow: visible;
+}
+#Image_1_p {
+  mix-blend-mode: multiply;
+  position: absolute;
+  width: 53px;
+  height: 45px;
+  left: 1176px;
+  top: 346px;
+  overflow: visible;
+}
+#Image_1_q {
+  mix-blend-mode: multiply;
+  position: absolute;
+  width: 53px;
+  height: 45px;
+  left: 1176px;
+  top: 473px;
+  overflow: visible;
+}
+#Image_1_r {
+  mix-blend-mode: multiply;
+  position: absolute;
+  width: 53px;
+  height: 45px;
+  left: 1176px;
+  top: 600px;
+  overflow: visible;
+}
+#Rectangle_5 {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_5 {
+  filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 272px;
+  height: 77px;
+  left: 1082px;
+  top: 44px;
+}
+#Ellipse_1 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 1091px;
+  top: 54px;
+  overflow: visible;
+}
+#AMISH_RAJ {
+  mix-blend-mode: multiply;
+  left: 1143px;
+  top: 50px;
+  position: absolute;
+  overflow: visible;
+  width: 99px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(112, 112, 112, 1);
+  text-transform: uppercase;
+}
+#HR_Head {
+  left: 1143px;
+  top: 74px;
+  position: absolute;
+  overflow: visible;
+  width: 55px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  color: rgba(112, 112, 112, 1);
+}
+#Rectangle_6 {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_6 {
+  filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 532px;
+  height: 77px;
+  left: 548px;
+  top: 44px;
+}
+#Search {
+  opacity: 0.38;
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+  left: 571px;
+  top: 62px;
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  color: rgba(112, 112, 112, 1);
+}
+#Image_1_y {
+  position: absolute;
+  width: 256px;
+  height: 159px;
+  left: 14px;
+  top: 24px;
+  overflow: visible;
+}
+#Ellipse_2 {
+  fill: rgba(124, 173, 246, 0.169);
+}
+.Ellipse_2 {
+  position: absolute;
+  overflow: visible;
+  width: 932px;
+  height: 856px;
+  left: -213px;
+  top: 216px;
+}
+#HR_CENTRAL {
+  left: 155px;
+  top: 403px;
+  position: absolute;
+  overflow: visible;
+  width: 245px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(254, 161, 80, 1);
+}
+#Resource_management_at_a_singl {
+  left: 155px;
+  top: 465px;
+  position: absolute;
+  overflow: visible;
+  width: 557px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgba(0, 0, 0, 1);
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+  left: 155px;
+  top: 514px;
+  position: absolute;
+  overflow: visible;
+  width: 511px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 1);
+}
+#Icon_feather-arrow-left-circle {
+  opacity: 0.4;
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  left: 930px;
+  top: 411px;
+  overflow: visible;
+}
+#Path_1 {
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_1 {
+  overflow: visible;
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_2 {
+  filter: blur(30px);
+  fill: rgba(0, 0, 0, 1);
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_2 {
+  overflow: visible;
+  position: absolute;
+  width: 16.021px;
+  height: 29.043px;
+  left: 18.6px;
+  top: 18.6px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_3 {
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_3 {
+  overflow: visible;
+  position: absolute;
+  width: 27.8px;
+  height: 3px;
+  left: 18.6px;
+  top: 31px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Icon_feather-arrow-left-circle_ {
+  opacity: 0.4;
+  transform: matrix(1, 0, 0, 1, 1274, 411) rotate(180deg);
+  transform-origin: center;
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Path_1_ {
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_1_ {
+  overflow: visible;
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_2_ {
+  filter: blur(30px);
+  fill: rgba(0, 0, 0, 1);
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_2_ {
+  overflow: visible;
+  position: absolute;
+  width: 16.021px;
+  height: 29.043px;
+  left: 31px;
+  top: 18.6px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_3_ba {
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_3_ba {
+  overflow: visible;
+  position: absolute;
+  width: 27.8px;
+  height: 3px;
+  left: 18.6px;
+  top: 31px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#v25_3722x {
+  position: absolute;
+  width: 397px;
+  height: 397px;
+  left: -67px;
+  top: 146px;
+  overflow: visible;
+}
