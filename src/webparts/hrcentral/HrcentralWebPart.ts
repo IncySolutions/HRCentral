@@ -31,8 +31,7 @@ export default class HrcentralWebPart extends BaseClientSideWebPart<IHrcentralWe
     ReactDom.render(element, this.domElement);
   }
 
-  private test(){  
-    alert("Hi this is test");
+  private test(){      
     //console.log("Hi this is test")
     this.context.httpClient
     .get('https://resourcerequestsoln.azurewebsites.net/api/WeatherForecast', HttpClient.configurations.v1)
