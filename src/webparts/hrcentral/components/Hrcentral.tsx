@@ -5,7 +5,8 @@ import { escape } from '@microsoft/sp-lodash-subset';
 import "bootstrap/dist/css/bootstrap.min.css";
 import { HashRouter, Route } from "react-router-dom";
 import ResoureRequest from '../components/ResourceRequest/resourcerequest';
-import Home from '../components/Home/home'
+import Home from '../components/Home/home';
+import Resource_Request from './Resource_Request/Resource_Request';
 
 
 export default class Hrcentral extends React.Component<IHrcentralProps, {}> {
@@ -27,10 +28,14 @@ export default class Hrcentral extends React.Component<IHrcentralProps, {}> {
           </div>
         </nav>
         <a href="#">This is Home</a>
-        <a href="#/rr">This is resource</a>       
+        
+        <a href="#/rr">This is resource</a> 
+        <a href="#/resourceReq">This is resource request</a> 
+
         <HashRouter>          
           <Route path="/" exact component={Home}></Route>
           <Route path="/rr" component={ResoureRequest}></Route>
+          <Route path="/resourceReq" component={Resource_Request}></Route>
         </HashRouter>
       </div>
 
