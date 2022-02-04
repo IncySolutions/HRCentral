@@ -11,6 +11,7 @@ import * as strings from 'HrcentralWebPartStrings';
 import Hrcentral from './components/Hrcentral';
 import { IHrcentralProps } from './components/IHrcentralProps';
 import { HttpClient,HttpClientResponse} from "@microsoft/sp-http"; 
+require('./components/Styles/customCSS.css');
 
 
 export interface IHrcentralWebPartProps {

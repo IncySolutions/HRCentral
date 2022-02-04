@@ -7,6 +7,7 @@ import { HashRouter, Route } from "react-router-dom";
 import ResoureRequest from '../components/ResourceRequest/resourcerequest';
 import Home from '../components/Home/home';
 import Resource_Request from './Resource_Request/Resource_Request';
+require('./Styles/customCSS.css');
 
 
 export default class Hrcentral extends React.Component<IHrcentralProps, {}> {
